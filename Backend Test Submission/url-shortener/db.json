@@ -1,0 +1,65 @@
+{
+  "urls": [
+    {
+      "shortcode": "go123",
+      "originalUrl": "https://google.com",
+      "createdAt": "2025-07-08T06:27:11.673Z",
+      "expiresAt": "2025-07-08T06:37:11.673Z",
+      "clickCount": 2
+    },
+    {
+      "shortcode": "go12344",
+      "originalUrl": "https://google.com",
+      "createdAt": "2025-07-08T06:36:22.896Z",
+      "expiresAt": "2025-07-08T07:06:22.896Z",
+      "clickCount": 0
+    },
+    {
+      "shortcode": "go123445",
+      "originalUrl": "https://google.com",
+      "createdAt": "2025-07-08T06:36:38.272Z",
+      "expiresAt": "2025-07-08T07:06:38.272Z",
+      "clickCount": 1
+    },
+    {
+      "shortcode": "12345678",
+      "originalUrl": "https://www.google.com/",
+      "createdAt": "2025-07-08T07:20:11.445Z",
+      "expiresAt": "2025-07-08T07:50:11.445Z",
+      "clickCount": 1
+    },
+    {
+      "shortcode": "40",
+      "originalUrl": "https://www.google.com/",
+      "createdAt": "2025-07-08T07:21:52.255Z",
+      "expiresAt": "2192-03-05T08:42:52.255Z",
+      "clickCount": 0
+    }
+  ],
+  "clicks": [
+    {
+      "shortcode": "go123",
+      "timestamp": "2025-07-08T06:34:35.827Z",
+      "referrer": "direct",
+      "ip": "::1"
+    },
+    {
+      "shortcode": "go123",
+      "timestamp": "2025-07-08T06:35:14.887Z",
+      "referrer": "direct",
+      "ip": "::1"
+    },
+    {
+      "shortcode": "go123445",
+      "timestamp": "2025-07-08T06:36:40.336Z",
+      "referrer": "direct",
+      "ip": "::1"
+    },
+    {
+      "shortcode": "12345678",
+      "timestamp": "2025-07-08T07:20:15.198Z",
+      "referrer": "direct",
+      "ip": "::1"
+    }
+  ]
+}
